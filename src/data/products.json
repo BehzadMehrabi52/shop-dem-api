@@ -1,6 +1,7 @@
 [
   {
     "id": 1,
+    "category_id": 2,
     "title": { "fa": "کفش ورزشی", "tr": "Spor Ayakkabı", "en": "Sports Shoe" },
     "description": {
       "fa": "یک کفش راحت و سبک برای ورزش و پیاده‌روی",
@@ -16,6 +17,7 @@
   },
   {
     "id": 2,
+    "category_id": 2,
     "title": { "fa": "کیف دستی زنانه", "tr": "Kadın El Çantası", "en": "Women's Handbag" },
     "description": {
       "fa": "کیف دستی شیک و جادار برای استفاده روزانه",
@@ -31,6 +33,7 @@
   },
   {
     "id": 3,
+    "category_id": 3,
     "title": { "fa": "هدفون بی‌سیم", "tr": "Kablosuz Kulaklık", "en": "Wireless Headphones" },
     "description": {
       "fa": "هدفون با کیفیت بالا و باتری طولانی",
@@ -46,6 +49,7 @@
   },
   {
     "id": 4,
+    "category_id": 1,
     "title": { "fa": "کت مردانه", "tr": "Erkek Ceket", "en": "Men's Jacket" },
     "description": {
       "fa": "کت گرم و شیک برای فصل سرما",
@@ -61,6 +65,7 @@
   },
   {
     "id": 5,
+    "category_id": 3,
     "title": { "fa": "ساعت هوشمند", "tr": "Akıllı Saat", "en": "Smart Watch" },
     "description": {
       "fa": "ساعت هوشمند با قابلیت‌های متعدد و باتری قوی",
@@ -76,6 +81,7 @@
   },
   {
     "id": 6,
+    "category_id": 5,
     "title": { "fa": "عینک آفتابی", "tr": "Güneş Gözlüğü", "en": "Sunglasses" },
     "description": {
       "fa": "عینک شیک برای محافظت از چشم‌ها",
@@ -91,6 +97,7 @@
   },
   {
     "id": 7,
+    "category_id": 5,
     "title": { "fa": "کوله پشتی", "tr": "Sırt Çantası", "en": "Backpack" },
     "description": {
       "fa": "کوله پشتی محکم و جادار برای سفر و مدرسه",
@@ -106,6 +113,7 @@
   },
   {
     "id": 8,
+    "category_id": 4,
     "title": { "fa": "کتاب داستان", "tr": "Hikaye Kitabı", "en": "Story Book" },
     "description": {
       "fa": "کتاب داستان برای کودکان و نوجوانان",
@@ -121,6 +129,7 @@
   },
   {
     "id": 9,
+    "category_id": 3,
     "title": { "fa": "ماوس بی‌سیم", "tr": "Kablosuz Fare", "en": "Wireless Mouse" },
     "description": {
       "fa": "ماوس راحت و دقیق برای کار با کامپیوتر",
@@ -136,6 +145,7 @@
   },
   {
     "id": 10,
+    "category_id": 3,
     "title": { "fa": "چراغ مطالعه", "tr": "Okuma Lambası", "en": "Desk Lamp" },
     "description": {
       "fa": "چراغ مطالعه کوچک و کاربردی برای میز کار",

@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "fa": "پوشاک",
+      "tr": "Giyim",
+      "en": "Clothing"
+    }
+  },
+  {
+    "id": 2,
+    "title": {
+      "fa": "کیف و کفش",
+      "tr": "Çanta ve Ayakkabı",
+      "en": "Bags & Shoes"
+    }
+  },
+  {
+    "id": 3,
+    "title": {
+      "fa": "الکترونیک",
+      "tr": "Elektronik",
+      "en": "Electronics"
+    }
+  },
+  {
+    "id": 4,
+    "title": {
+      "fa": "کتاب",
+      "tr": "Kitap",
+      "en": "Books"
+    }
+  },
+  {
+    "id": 5,
+    "title": {
+      "fa": "لوازم جانبی",
+      "tr": "Aksesuarlar",
+      "en": "Accessories"
+    }
+  }
+]
