@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": { "fa": "کفش ورزشی", "tr": "Spor Ayakkabı", "en": "Sports Shoe" },
+    "description": {
+      "fa": "یک کفش راحت و سبک برای ورزش و پیاده‌روی",
+      "tr": "Spor ve yürüyüş için hafif ve rahat bir ayakkabı",
+      "en": "A lightweight and comfortable shoe for sports and walking"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1528701800484-0c37a89f9abf?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1596464716121-151a1a0915c8?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1618354696225-48e3d2ebbd54?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 1200, "TRY": 450, "USD": 30 }
+  },
+  {
+    "id": 2,
+    "title": { "fa": "کیف دستی زنانه", "tr": "Kadın El Çantası", "en": "Women's Handbag" },
+    "description": {
+      "fa": "کیف دستی شیک و جادار برای استفاده روزانه",
+      "tr": "Günlük kullanım için şık ve geniş bir el çantası",
+      "en": "A stylish and spacious handbag for everyday use"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1600185367881-fd7856b7e2e1?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1598032908471-9b5a2e2eec82?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1611237280564-c9f8e3f0f8a1?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 900, "TRY": 350, "USD": 25 }
+  },
+  {
+    "id": 3,
+    "title": { "fa": "هدفون بی‌سیم", "tr": "Kablosuz Kulaklık", "en": "Wireless Headphones" },
+    "description": {
+      "fa": "هدفون با کیفیت بالا و باتری طولانی",
+      "tr": "Yüksek kaliteli ve uzun pil ömrüne sahip kulaklık",
+      "en": "High-quality headphones with long battery life"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1580894894513-6ff19e3b3df5?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1606813907121-2f9d7c3a1b07?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1611158981461-ec5136c3b8a6?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 2500, "TRY": 950, "USD": 75 }
+  },
+  {
+    "id": 4,
+    "title": { "fa": "کت مردانه", "tr": "Erkek Ceket", "en": "Men's Jacket" },
+    "description": {
+      "fa": "کت گرم و شیک برای فصل سرما",
+      "tr": "Soğuk havalar için sıcak ve şık ceket",
+      "en": "Warm and stylish jacket for cold seasons"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1593032465170-f0eb5b3c6467?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 3500, "TRY": 1300, "USD": 100 }
+  },
+  {
+    "id": 5,
+    "title": { "fa": "ساعت هوشمند", "tr": "Akıllı Saat", "en": "Smart Watch" },
+    "description": {
+      "fa": "ساعت هوشمند با قابلیت‌های متعدد و باتری قوی",
+      "tr": "Çok fonksiyonlu ve güçlü pile sahip akıllı saat",
+      "en": "Smart watch with multiple features and strong battery"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1587825140708-8a6ff3b7c6f0?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1556405390-c2b7a16f4aeb?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 4500, "TRY": 1650, "USD": 125 }
+  },
+  {
+    "id": 6,
+    "title": { "fa": "عینک آفتابی", "tr": "Güneş Gözlüğü", "en": "Sunglasses" },
+    "description": {
+      "fa": "عینک شیک برای محافظت از چشم‌ها",
+      "tr": "Gözleri korumak için şık gözlük",
+      "en": "Stylish sunglasses for eye protection"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1499084732479-de2c02d45fc4?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1504198453319-5ce911bafcde?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1539883364953-09b71614c0ff?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 800, "TRY": 300, "USD": 20 }
+  },
+  {
+    "id": 7,
+    "title": { "fa": "کوله پشتی", "tr": "Sırt Çantası", "en": "Backpack" },
+    "description": {
+      "fa": "کوله پشتی محکم و جادار برای سفر و مدرسه",
+      "tr": "Seyahat ve okul için sağlam ve geniş sırt çantası",
+      "en": "Durable and spacious backpack for travel and school"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1539874754764-5a965591b1f4?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 2200, "TRY": 820, "USD": 60 }
+  },
+  {
+    "id": 8,
+    "title": { "fa": "کتاب داستان", "tr": "Hikaye Kitabı", "en": "Story Book" },
+    "description": {
+      "fa": "کتاب داستان برای کودکان و نوجوانان",
+      "tr": "Çocuklar ve gençler için hikaye kitabı",
+      "en": "Story book for children and teenagers"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 400, "TRY": 150, "USD": 10 }
+  },
+  {
+    "id": 9,
+    "title": { "fa": "ماوس بی‌سیم", "tr": "Kablosuz Fare", "en": "Wireless Mouse" },
+    "description": {
+      "fa": "ماوس راحت و دقیق برای کار با کامپیوتر",
+      "tr": "Bilgisayar kullanımı için rahat ve hassas fare",
+      "en": "Comfortable and precise mouse for computer use"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1587825140708-8a6ff3b7c6f0?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1606813907121-2f9d7c3a1b07?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1611158981461-ec5136c3b8a6?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 700, "TRY": 260, "USD": 18 }
+  },
+  {
+    "id": 10,
+    "title": { "fa": "چراغ مطالعه", "tr": "Okuma Lambası", "en": "Desk Lamp" },
+    "description": {
+      "fa": "چراغ مطالعه کوچک و کاربردی برای میز کار",
+      "tr": "Masa için küçük ve kullanışlı okuma lambası",
+      "en": "Small and practical desk lamp for workspace"
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?auto=format&fit=crop&w=600&q=80",
+      "https://images.unsplash.com/photo-1581291519195-ef11498d1cf5?auto=format&fit=crop&w=600&q=80"
+    ],
+    "price": { "IRR": 600, "TRY": 220, "USD": 15 }
+  }
+]
