@@ -7,13 +7,16 @@ import { Product } from "../types/Product";
 const router = Router();
 const categories: Category[] = categoriesJson;
 
+const BASE_URL = process.env.BASE_URL || "http://localhost:5000";
+
 const supportedLangs = ["fa", "en", "tr"] as const;
 
 // ترجمه کتگوری
 const translateCategory = (category: Category, lang: string) => {
   return {
     ...category,
-    title: category.title[lang as "fa" | "en" | "tr"] || category.title.en
+    title: category.title[lang as "fa" | "en" | "tr"] || category.title.en,
+    image: `${BASE_URL}/images${category.image}`
   };
 };
 
@@ -74,7 +77,8 @@ router.get("/:id/products", (req: Request, res: Response) => {
       ...p,
       title: p.title[finalLang as "fa" | "en" | "tr"],
       description: p.description[finalLang as "fa" | "en" | "tr"],
-      price: p.price[finalCurrency as "IRR" | "USD" | "TRY"]
+      price: p.price[finalCurrency as "IRR" | "USD" | "TRY"],
+      images: p.images.map(img => `${BASE_URL}/images${img}`)
     }));
 
   res.json(filtered);

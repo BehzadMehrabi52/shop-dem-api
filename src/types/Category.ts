@@ -7,4 +7,5 @@ export interface CategoryTitle {
 export interface Category {
   id: number;
   title: CategoryTitle;
+  image: string
 }

@@ -5,7 +5,8 @@
       "fa": "پوشاک",
       "tr": "Giyim",
       "en": "Clothing"
-    }
+    },
+    "image": "/categories/clothing.jpg"
   },
   {
     "id": 2,
@@ -13,7 +14,8 @@
       "fa": "کیف و کفش",
       "tr": "Çanta ve Ayakkabı",
       "en": "Bags & Shoes"
-    }
+    },
+    "image": "/categories/bags-shoes.jpg"
   },
   {
     "id": 3,
@@ -21,7 +23,8 @@
       "fa": "الکترونیک",
       "tr": "Elektronik",
       "en": "Electronics"
-    }
+    },
+    "image": "/categories/electronics.jpg"
   },
   {
     "id": 4,
@@ -29,7 +32,8 @@
       "fa": "کتاب",
       "tr": "Kitap",
       "en": "Books"
-    }
+    },
+    "image": "/categories/books.jpg"
   },
   {
     "id": 5,
@@ -37,6 +41,7 @@
       "fa": "لوازم جانبی",
       "tr": "Aksesuarlar",
       "en": "Accessories"
-    }
+    },
+    "image": "/categories/accessories.jpg"
   }
 ]

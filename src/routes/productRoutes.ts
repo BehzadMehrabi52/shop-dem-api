@@ -5,6 +5,8 @@ import { Product } from "../types/Product";
 const router = Router();
 const products: Product[] = productsJson;
 
+const BASE_URL = process.env.BASE_URL || "http://localhost:5000";
+
 const supportedLangs = ["fa", "en", "tr"] as const;
 const supportedCurrencies = ["IRR", "USD", "TRY"] as const;
 
@@ -13,7 +15,8 @@ const getText = (product: Product, lang: string, currency: string) => {
     ...product,
     title: product.title[lang as "fa" | "en" | "tr"] || product.title.en,
     description: product.description[lang as "fa" | "en" | "tr"] || product.description.en,
-    price: product.price[currency as "IRR" | "USD" | "TRY"] || product.price.USD
+    price: product.price[currency as "IRR" | "USD" | "TRY"] || product.price.USD,
+    images: product.images.map(img => `${BASE_URL}/images${img}`)
   };
 };
 
